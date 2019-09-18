@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">firebaseTraining</string>
+    <array name="genres">
+        <item>rock</item>
+        <item>paper</item>
+        <item>scissors</item>
+        <item>folk</item>
+    </array>
+</resources>
